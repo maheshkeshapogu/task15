@@ -1,3 +1,3 @@
-FROM nginx:html
+FROM nginx:latest
 
 EXPOSE 80
